@@ -1,0 +1,17 @@
+{
+    "hostAddress": "0.0.0.0",
+    "dataPort": 8766,
+    "dashCommunicationPort": 8765,
+
+    "temperatureSensors": {
+        "motor": 1,
+        "speedController": 3,
+        "battery1": 2,
+        "battery2": 5,
+        "battery3": 0,
+        "battery4": 4
+    },
+
+    "logServer": "example.org",
+    "logPort": 2052
+}

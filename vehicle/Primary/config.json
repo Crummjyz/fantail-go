@@ -1,0 +1,20 @@
+{
+    "wheelDiameter": 500,
+    "maxThrottle": 1,
+    "speedMeasurementDuration": 1,
+    "steeringDeadzone": 0,
+    "steeringSensitivity": 0.5,
+    "speedSteeringSensitivity": true,
+    "speedAveragingHistory": 10,
+
+    "secondaryComputerAddress": "fantail-secondary",
+    "dataPort": 8766,
+
+    "lidarPort": "/dev/ttyUSB0",
+    "lidarSpeed": 1023,
+    "lidarAngle": 6,
+    "rearLidarOverhang": 30,
+
+    "logServer": "example.org",
+    "logPort": 2052
+}

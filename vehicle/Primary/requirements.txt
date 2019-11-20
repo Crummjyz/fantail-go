@@ -1,0 +1,6 @@
+adafruit-blinka
+inputs
+adafruit-circuitpython-mcp4725
+gpiozero
+adafruit-rplidar
+pyserial
